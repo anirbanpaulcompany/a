@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Anime Ranker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`You can access it here` [Link](https://anirbanpaulcompany.github.io/a/).
 
 ## Available Scripts
 
